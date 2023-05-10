@@ -21,8 +21,9 @@ li{
     margin: 5px;
 }
 
-a li {
+a {
     text-decoration: none;
+    
 }
 .container .img-class .logo{
     width: 70px;
